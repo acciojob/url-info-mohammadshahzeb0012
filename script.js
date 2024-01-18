@@ -1,2 +1,2 @@
 //your JS code here. If required.
-alert(    window.location.href.length)
+alert(  "The length of the URL is: "  +  window.location.href.length)
